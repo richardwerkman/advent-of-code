@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BeZGv5GfC9jGKpbwR4UHOR+4odVkMVsD+NCj53nzJZG3gl+FjGsVH4Nb/wQt4A22z22LSo5coKh5Mm3hZg1LsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Repos\\advent-of-code\\src\\Day1\\Day1\\Day1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rwerc03856\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
