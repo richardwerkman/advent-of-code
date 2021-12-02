@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b2499da-0d4b-428b-a140-1bc817efa2c7": {
+      "ProjectGuid": "8b2499da-0d4b-428b-a140-1bc817efa2c7",
+      "DisplayName": "Dag2",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "955075ac-f6de-4e17-8876-ba729397878c": {
+      "ProjectGuid": "955075ac-f6de-4e17-8876-ba729397878c",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
