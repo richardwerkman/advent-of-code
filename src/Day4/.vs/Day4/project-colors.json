@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7df45c1b-58a1-4c68-95a8-35907b8c33f5": {
+      "ProjectGuid": "7df45c1b-58a1-4c68-95a8-35907b8c33f5",
+      "DisplayName": "Day4",
+      "ColorIndex": 0
+    },
+    "2ac8b915-c23d-4c46-87c7-68f4d37dcea4": {
+      "ProjectGuid": "2ac8b915-c23d-4c46-87c7-68f4d37dcea4",
+      "DisplayName": "ExampleTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
