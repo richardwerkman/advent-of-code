@@ -6,15 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="input_Jan.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="input_Mel.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="input_Pim.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Compile Include="lanternfishCounter.fs" />
     <Content Include="Input.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
