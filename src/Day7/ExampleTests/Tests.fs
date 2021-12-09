@@ -8,6 +8,6 @@ open System.IO
 [<Fact>]
 let ``Example input`` () =
     let input = File.ReadAllLines("input.txt")
-    let startingState = input[0].Split ',' |> Seq.map Convert.ToInt32 |> Seq.toList
-    let count = run1 startingState
-    Assert.Equal(37, count)
+    let map = input |> Seq.map Seq.toList |> Seq.map (fun x -> x |> Seq.map (fun y -> Convert.ToInt32(y.ToString())) |> Seq.toArray) |> Seq.toArray
+    let count = run1 map
+    Assert.Equal(15, count)
